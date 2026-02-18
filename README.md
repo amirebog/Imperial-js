@@ -9,7 +9,8 @@ A lightweight JavaScript library for converting **Shahanshahi (Imperial, Persian
 ### Node.js
 
 ```bash
-npm install shahanshahi-calendar
+npm install github:amirebog/imperial-js
+
 ```
 
 Then import it:
